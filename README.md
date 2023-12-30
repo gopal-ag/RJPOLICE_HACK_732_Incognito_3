@@ -1,5 +1,5 @@
 # SentinelAI - Intelligent CCTV Camera Management System
-# Rajasthan Police Hackathon, Team Incognito
+# Rajasthan Police Hackathon, Team Incognito (732)
 
 ## Overview
 
@@ -41,10 +41,12 @@ SentinelAI is an advanced Intelligent CCTV Camera Management System designed to 
 
 ### Prerequisites
 
-- Python 3.x
-- TensorFlow, PyTorch
+- Python 3.9.13
+- TensorFlow, PyTorch, Ultralytics, Yolov8l
 - OpenCV, Dlib, FaceNet
-- Other dependencies listed in requirements.txt
+- Flask
+- Numpy, Pandas, Matplotlib
+- Html, css, js
 
 ### Installation
 
