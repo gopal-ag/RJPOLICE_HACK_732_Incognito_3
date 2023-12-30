@@ -46,6 +46,7 @@ SentinelAI is an advanced Intelligent CCTV Camera Management System designed to 
 - OpenCV, Dlib, FaceNet
 - Flask
 - Numpy, Pandas, Matplotlib
+- Mediapipe, Tensorflow lite 
 - Html, css, js
 
 ### Installation
