@@ -1,5 +1,5 @@
 # SentinelAI - Intelligent CCTV Camera Management System
-# Rajasthan Police Hackathon, Team Incognito
+# Rajasthan Police Hackathon, Team Incognito (732)
 
 ## Overview
 
