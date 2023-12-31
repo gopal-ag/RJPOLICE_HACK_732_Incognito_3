@@ -16,6 +16,9 @@ SentinelAI is an advanced Intelligent CCTV Camera Management System designed to 
 
 - Advanced models for weapons and hazardous object detection using YOLO (You Only Look Once) for rapid and accurate results.
 - Integration with the system for immediate alerting and response.
+  
+![Weapon Detection](https://github.com/gopal-ag/RJPOLICE_HACK_732_Incognito_3/assets/75373475/2820db39-0d25-4b9b-842e-de3f466ce10b)
+![Weapon Detection](https://github.com/gopal-ag/RJPOLICE_HACK_732_Incognito_3/assets/75373475/b7d593b7-567c-4130-a0bb-0b5810ec8764)
 
 ### [3. Vandalism Detection](Vandalism.ipynb)
 
