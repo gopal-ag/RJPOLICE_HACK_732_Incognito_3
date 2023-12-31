@@ -7,27 +7,27 @@ SentinelAI is an advanced Intelligent CCTV Camera Management System designed to 
 
 ## Features
 
-### 1. Facial Recognition
+### [1. Facial Recognition](FaceDetection)
 
 - State-of-the-art facial recognition model deployed for authorized personnel access and suspect identification.
 - Real-time facial recognition for proactive security measures.
 
-### 2. Object Detection
+### [2. Weapon Detection](Weapons.ipynb)
 
 - Advanced models for weapons and hazardous object detection using YOLO (You Only Look Once) for rapid and accurate results.
 - Integration with the system for immediate alerting and response.
 
-### 3. Vandalism Detection
+### [3. Vandalism Detection](Vandalism.ipynb)
 
 - Semantic segmentation model for vandalism detection, enabling swift identification of potential threats to public property.
 - Real-time monitoring and alerting for law enforcement intervention.
 
-### 4. Reverse Lost and Found System
+### [4. Reverse Lost and Found System](ReverceLost&Found)
 
 - Innovative system to reverse the traditional lost and found process.
 - Uses AI and image recognition to match lost items with found items in the surveillance footage.
 
-### 5. Pose Detection
+### [5. Pose Detection](Pose_detet.py)
 
 - Pose detection model for analyzing the posture and movements of individuals.
 - Enhances situational awareness and assists in identifying suspicious behavior.
