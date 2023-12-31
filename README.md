@@ -32,7 +32,7 @@ SentinelAI is an advanced Intelligent CCTV Camera Management System designed to 
 - Pose detection model for analyzing the posture and movements of individuals.
 - Enhances situational awareness and assists in identifying suspicious behavior.
 
-### 6. Face Generation
+### [6. Face Generation](FaceDetection/Prompt_based_Image_Generation.ipynb)
 
 - AI-based face generation model for creating facial images from textual prompts.
 - Used in the Sketch-to-Search feature for suspect identification.
